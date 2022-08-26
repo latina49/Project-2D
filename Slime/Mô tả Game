@@ -1,0 +1,6 @@
+MÔ TẢ GAME: góc nhìn ngang
+Map có quái săn Slime, hạt mana.
+Quái săn Slime: đi qua đi lại một đoạn nhất định, khi phát hiện Slime trong tầm cho phép những con quái săn Slime sẽ tấn công Slime, khi quái săn Slime die sẽ tạo tiền xu (1-5 xu)
+Slime có 100HP. Sử dụng phím Space để nhảy, phím A hoặc < sang trái, phím D hoặc > sang phải. Trên đường đi, Slime  có thể thu thập mana. Tích đủ mana Slime sẽ sử dụng được skill (Tối đa tích 3 lần) (phím W). Slime sẽ tấn công được quái săn Slime (định hướng bằng chuột), nếu tiêu diệt được quái săn Slime thì Slime sẽ được tiền xu.
+Tiền xu được sử dụng để đổi Slime trong quá trình chơi, mỗi lần đổi tốn 10 xu.
+Slime khi sử dụng skill (W):mỗi loại Slime có skill khác nhau
